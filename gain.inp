@@ -1,0 +1,7 @@
+115.0d3  ! frequency
+0.149944693785706 ! rho_initial
+0.0001   ! r_step
+1.0d-9 ! t_step
+2.0d-6   ! t_save
+90.0d-6   ! t_stop
+40.310 ! v_wall_0
